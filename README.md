@@ -1,8 +1,8 @@
 # Python-Projects
 
-#Projects include:
+Projects include:
 
-#A Rock, Paper, Scissors game
-#A genius addition calculator
-#A cover letter simulator
-#A date & time tool
+1) A Rock, Paper, Scissors game
+2) A genius addition calculator
+3) A cover letter simulator
+4) A date & time tool
